@@ -1,0 +1,15 @@
+# Sania Shamsi — AI Visibility Technical Portfolio
+
+> Portfolio demonstrating web development experience and a practical implementation of structured data and AI visibility foundations.
+
+## Main pages
+- [Overview](https://sania102.github.io/ai-visibility-specialist-portfolio/)
+- [Technical approach](https://sania102.github.io/ai-visibility-specialist-portfolio/approach.html)
+- [Structured data](https://sania102.github.io/ai-visibility-specialist-portfolio/schema.html)
+- [About](https://sania102.github.io/ai-visibility-specialist-portfolio/about.html)
+
+## Structured data
+The website uses JSON-LD with Schema.org Person, WebSite and WebPage entities. The structured data describes the visible page content.
+
+## Important context
+This is an independent portfolio demonstration, not a client website. It does not claim guaranteed rankings, citations or inclusion in AI search systems.

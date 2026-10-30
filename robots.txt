@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sania102.github.io/ai-visibility-specialist-portfolio/sitemap.xml
